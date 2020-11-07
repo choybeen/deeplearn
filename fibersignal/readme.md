@@ -1,6 +1,6 @@
 # oil pipeline abnormal events detection and automatic recognization
   ##signals like:
----------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------
+###--------------------------------------------------|----------------------------------------------------|-------------------------------------------------------
 ![GitHub Logo](https://github.com/choybeen/deeplearn/blob/main/fibersignal/imgs/sig1.png?raw=true)|![GitHub Logo](https://github.com/choybeen/deeplearn/blob/main/fibersignal/imgs/sig3.png?raw=true)
 
 ##create neural network:
