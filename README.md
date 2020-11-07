@@ -2,7 +2,8 @@
 
 # oil pipeline abnormal events detection and automatic recognization
   
-- [x]Model: "sequential_7"
+- [x]Model: "sequential_7"|
+------------------|----------------------------|-----------------
 _________________________________________________________________
 Layer (type)       |          Output Shape     |         Param #   
 =================================================================
