@@ -3,7 +3,7 @@
 # oil pipeline abnormal events detection and automatic recognization
   
 *Model: "sequential_7"|
-  *------------------|----------------------------|-----------------
+  ------------------|----------------------------|-----------------
   *Layer (type)       |          Output Shape     |         Param #   
   *conv1d_19 (Conv1D) |          (None, 2996, 128)|         768       
   *max_pooling1d_13 (MaxPooling (None, 998, 128)  |        0         
