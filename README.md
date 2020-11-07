@@ -2,7 +2,7 @@
 
 # oil pipeline abnormal events detection and automatic recognization
   
-- [x]Model: "sequential_7"|
+**Model: "sequential_7"|
 ------------------|----------------------------|-----------------
 _________________________________________________________________
 Layer (type)       |          Output Shape     |         Param #   
@@ -28,7 +28,7 @@ dense_7 (Dense)    |          (None, 7)        |         231
 Total params: 52,295
 Trainable params: 52,295
 Non-trainable params: 0
-
+**
 ![GitHub Logo](https://github.com/choybeen/deeplearn/blob/main/fibersignal/imgs/download.png?raw=true)
 ![GitHub Logo](https://github.com/choybeen/deeplearn/blob/main/fibersignal/imgs/download%20(1).png?raw=true)
 
