@@ -1,12 +1,12 @@
 # oil pipeline abnormal events detection and automatic recognization
   ## the signals sampling rate is 750 ps, four seconds as a block in 3000 bytes, like:
-###------------------------------------------------|-------------------------------------|-------------------------------------
+## ------------------------------------------------|-------------------------------------|-------------------------------------
 ![GitHub Logo](https://github.com/choybeen/deeplearn/blob/main/fibersignal/imgs/sig1.png?raw=true)|![GitHub Logo](https://github.com/choybeen/deeplearn/blob/main/fibersignal/imgs/sig3.png?raw=true)
-.read data from files of different type, and create one-hot labels, then reshuffle those data in random order by index, divide data into training and test groups 
+* read data from files of different type, and create one-hot labels, then reshuffle those data in random order by index, divide data into training and test groups 
 ##create neural network:
 
 ![GitHub Logo](https://github.com/choybeen/deeplearn/blob/main/fibersignal/imgs/Capture.JPG?raw=true)
-add two dropout layers avoiding overfitting 
+* add two dropout layers avoiding overfitting 
 
 ## the result:
 ![GitHub Logo](https://github.com/choybeen/deeplearn/blob/main/fibersignal/imgs/download.png?raw=true)
